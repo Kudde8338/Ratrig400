@@ -4,5 +4,5 @@
 ## Quick navigation
 Chapter|Content Description
 :---: |-------------------
-Intro.|[What is this] (/purpose.md)
+Intro.|[What is this](/purpose.md)
 1.|[Define what you need](/defineneeds.md)
