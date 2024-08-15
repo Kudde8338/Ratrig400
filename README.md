@@ -5,4 +5,4 @@
 Chapter|Content Description
 :---: |-------------------
 Intro.|[What is this](/purpose.md)
-1.|[Define what you need](/defineneeds.md)
+1.|[printer.cfg](/printer.cfg)
