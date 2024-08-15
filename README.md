@@ -6,4 +6,4 @@ This is a documentation for my RatRig
 Chapter|Content Description
 :---: |-------------------
 Intro.|[What is this](/Purpose.md)
-1.|[printer.cfg](/printer.cfg)
+1.|[printer.cfg](/Code/printer.cfg)
