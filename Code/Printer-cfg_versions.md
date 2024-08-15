@@ -1,7 +1,7 @@
 ## Current versions of PRINTER.CFG
 
-## Quick navigation
+## Printer.cfg versions
 Version|Change
 :---: |-------------------
-[1.](/version1)|[Update](/changes/version1)
-[2.](/version2)|[Update](/changes/version2)
+[1.](/cfg/version1)|[Update](/cfg/changes/version1)
+[2.](/cfg/version2)|[Update](/cfg/changes/version2)
