@@ -3,5 +3,5 @@
 ## Quick navigation
 Version|Change
 :---: |-------------------
-1.|[Update](/version1)
-2.|[Update](/version2)
+[1.](/version1)|[Update](/changes/version1)
+[2.](/version2)|[Update](/changes/version2)
