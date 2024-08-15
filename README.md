@@ -1,1 +1,4 @@
-# Ratrig 400x400x400 Build documentation
+# Ratrig 400<sup>3</sup> Build documentation
+
+
+## Quick navigation
