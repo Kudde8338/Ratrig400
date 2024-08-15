@@ -5,5 +5,5 @@ This is a documentation for my RatRig
 ## Quick navigation
 Chapter|Content Description
 :---: |-------------------
-Intro.|[What is this](/purpose.md)
+Intro.|[What is this](/Purpose.md)
 1.|[printer.cfg](/printer.cfg)
